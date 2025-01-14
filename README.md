@@ -2,6 +2,14 @@
 
 An **Education Consultancy Website** designed to streamline the process of course enrollment, progress tracking, and managing user accounts. Built with a **modern tech stack** featuring **Angular** for the frontend, **Spring Boot** for the backend, and **SQL** for database management.
 
+![image](https://github.com/user-attachments/assets/8b9b744e-a67a-44e3-8953-787edcde390d)
+
+![image](https://github.com/user-attachments/assets/9e344461-5793-4a7f-a05d-0b4369e2813c)
+
+![image](https://github.com/user-attachments/assets/baab4af8-ad67-46d9-a518-2b99d0961198)
+
+![image](https://github.com/user-attachments/assets/67e93db8-fa80-4749-ab4a-6181572b3790)
+
 ---
 
 ## 🖥️ Features
