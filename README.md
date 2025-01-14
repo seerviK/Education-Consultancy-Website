@@ -1,22 +1,50 @@
-📚 Education Consultancy Website
-An Education Consultancy Website that provides a platform for users to register, explore courses, enroll, and track their learning progress. This full-stack project uses Angular for the frontend and Spring Boot for the backend, with MySQL as the database.
+# 🌟 Education Consultancy Website
 
-✨ Features
-🔐 User Authentication: Secure login, signup, and password reset functionality.
-📖 Course Enrollment: Explore and enroll in available courses.
-📊 Dashboard: Personalized dashboard showing enrolled courses and recommendations.
-📈 Course Progress Tracking: Monitor your learning progress for each enrolled course.
-💾 Data Storage: MySQL database for securely storing user and course information.
+An **Education Consultancy Website** designed to streamline the process of course enrollment, progress tracking, and managing user accounts. Built with a **modern tech stack** featuring **Angular** for the frontend, **Spring Boot** for the backend, and **SQL** for database management.
 
-🛠️ Technology Stack
-Frontend: Angular
-Backend: Spring Boot
-Database: MySQL
+---
 
-📂 Project Structure
-frontend/ - Angular frontend files.
-backend/ - Spring Boot backend files.
+## 🖥️ Features
 
-🚀 Getting Started
-Configure MySQL credentials in the backend settings (e.g., application.properties).
-Start the Angular and Spring Boot applications as per your setup.
+- **User Authentication**: Secure login, signup, and password reset functionality.
+- **Course Management**: Enroll in courses and track progress.
+- **Dashboard**: Personalized dashboard for users.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+- **Angular**: For a dynamic and interactive user interface.
+
+### Backend:
+- **Spring Boot**: For a robust and scalable server-side application.
+
+### Database:
+- **SQL**: For efficient data storage and retrieval.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites:
+- **Node.js** and **npm** for frontend.
+- **Java** and **Spring Boot** for backend.
+- **MySQL** for database setup.
+
+### Installation:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/seerviK/Education-Consultancy-Website.git
+   cd Education-Consultancy-Website
+
+🙌 Acknowledgements
+  # Angular for its powerful frontend capabilities.
+  # Spring Boot for a seamless backend development experience.
+  # MySQL for reliable database management.
+  
+📫 Contact
+Connect with me for suggestions or queries:
+GitHub: github.com/seerviK
+LinkedIn: www.linkedin.com/in/kamlesh-choudhary-775512257
